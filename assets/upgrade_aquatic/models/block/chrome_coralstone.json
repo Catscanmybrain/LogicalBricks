@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "upgrade_aquatic:block/chrome_coralstone",
+    "north": "upgrade_aquatic:block/chrome_coralstone",
+    "south": "upgrade_aquatic:block/chrome_coralstone",
+    "east": "upgrade_aquatic:block/chrome_coralstone_alt",
+    "west": "upgrade_aquatic:block/chrome_coralstone_alt",
+    "up": "upgrade_aquatic:block/chrome_coralstone_top",
+    "down": "upgrade_aquatic:block/chrome_coralstone_bottom"
+  }
+}

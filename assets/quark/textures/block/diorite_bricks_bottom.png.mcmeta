@@ -1,0 +1,13 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "quark:block/diorite_bricks_bottom-ctm"
+        ],
+		"extra": {
+			"light": 0
+		}
+    }
+}

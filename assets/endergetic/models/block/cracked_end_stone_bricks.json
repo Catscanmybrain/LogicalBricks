@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "endergetic:block/cracked_end_stone_bricks",
+    "north": "endergetic:block/cracked_end_stone_bricks",
+    "south": "endergetic:block/cracked_end_stone_bricks",
+    "east": "endergetic:block/cracked_end_stone_bricks_alt",
+    "west": "endergetic:block/cracked_end_stone_bricks_alt",
+    "up": "endergetic:block/cracked_end_stone_bricks_top",
+    "down": "endergetic:block/cracked_end_stone_bricks_bottom"
+  }
+}

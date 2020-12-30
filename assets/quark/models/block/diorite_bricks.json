@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "quark:block/diorite_bricks",
+    "north": "quark:block/diorite_bricks",
+    "south": "quark:block/diorite_bricks",
+    "east": "quark:block/diorite_bricks_alt",
+    "west": "quark:block/diorite_bricks_alt",
+    "up": "quark:block/diorite_bricks_top",
+    "down": "quark:block/diorite_bricks_bottom"
+  }
+}

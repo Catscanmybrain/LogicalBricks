@@ -1,0 +1,13 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "upgrade_aquatic:block/horn_coralstone_bottom-ctm"
+        ],
+		"extra": {
+			"light": 0
+		}
+    }
+}

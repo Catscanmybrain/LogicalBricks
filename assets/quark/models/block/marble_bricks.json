@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "quark:block/marble_bricks",
+    "north": "quark:block/marble_bricks",
+    "south": "quark:block/marble_bricks",
+    "east": "quark:block/marble_bricks_alt",
+    "west": "quark:block/marble_bricks_alt",
+    "up": "quark:block/marble_bricks_top",
+    "down": "quark:block/marble_bricks_bottom"
+  }
+}

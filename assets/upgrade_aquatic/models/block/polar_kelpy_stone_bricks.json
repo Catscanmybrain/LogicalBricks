@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "upgrade_aquatic:block/polar_kelpy_stone_bricks",
+    "north": "upgrade_aquatic:block/polar_kelpy_stone_bricks",
+    "south": "upgrade_aquatic:block/polar_kelpy_stone_bricks",
+    "east": "upgrade_aquatic:block/polar_kelpy_stone_bricks_alt",
+    "west": "upgrade_aquatic:block/polar_kelpy_stone_bricks_alt",
+    "up": "upgrade_aquatic:block/polar_kelpy_stone_bricks_top",
+    "down": "upgrade_aquatic:block/polar_kelpy_stone_bricks_bottom"
+  }
+}

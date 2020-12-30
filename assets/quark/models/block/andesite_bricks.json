@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "quark:block/andesite_bricks",
+    "north": "quark:block/andesite_bricks",
+    "south": "quark:block/andesite_bricks",
+    "east": "quark:block/andesite_bricks_alt",
+    "west": "quark:block/andesite_bricks_alt",
+    "up": "quark:block/andesite_bricks_top",
+    "down": "quark:block/andesite_bricks_bottom"
+  }
+}

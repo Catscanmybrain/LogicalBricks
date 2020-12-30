@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "breadcrumbs:block/mulberry_bread_bricks",
+    "north": "breadcrumbs:block/mulberry_bread_bricks",
+    "south": "breadcrumbs:block/mulberry_bread_bricks",
+    "east": "breadcrumbs:block/mulberry_bread_bricks_alt",
+    "west": "breadcrumbs:block/mulberry_bread_bricks_alt",
+    "up": "breadcrumbs:block/mulberry_bread_bricks_top",
+    "down": "breadcrumbs:block/mulberry_bread_bricks_bottom"
+  }
+}

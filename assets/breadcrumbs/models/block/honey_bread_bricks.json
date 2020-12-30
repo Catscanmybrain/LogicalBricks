@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "breadcrumbs:block/honey_bread_bricks",
+    "north": "breadcrumbs:block/honey_bread_bricks",
+    "south": "breadcrumbs:block/honey_bread_bricks",
+    "east": "breadcrumbs:block/honey_bread_bricks_alt",
+    "west": "breadcrumbs:block/honey_bread_bricks_alt",
+    "up": "breadcrumbs:block/honey_bread_bricks_top",
+    "down": "breadcrumbs:block/honey_bread_bricks_bottom"
+  }
+}

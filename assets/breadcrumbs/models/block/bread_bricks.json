@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "breadcrumbs:block/bread_bricks",
+    "north": "breadcrumbs:block/bread_bricks",
+    "south": "breadcrumbs:block/bread_bricks",
+    "east": "breadcrumbs:block/bread_bricks_alt",
+    "west": "breadcrumbs:block/bread_bricks_alt",
+    "up": "breadcrumbs:block/bread_bricks_top",
+    "down": "breadcrumbs:block/bread_bricks_bottom"
+  }
+}

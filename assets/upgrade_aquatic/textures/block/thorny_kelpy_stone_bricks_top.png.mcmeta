@@ -1,0 +1,13 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "upgrade_aquatic:block/thorny_kelpy_stone_bricks_top-ctm"
+        ],
+		"extra": {
+			"light": 0
+		}
+    }
+}

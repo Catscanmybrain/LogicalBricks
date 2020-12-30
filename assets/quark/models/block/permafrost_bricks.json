@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "quark:block/permafrost_bricks",
+    "north": "quark:block/permafrost_bricks",
+    "south": "quark:block/permafrost_bricks",
+    "east": "quark:block/permafrost_bricks_alt",
+    "west": "quark:block/permafrost_bricks_alt",
+    "up": "quark:block/permafrost_bricks_top",
+    "down": "quark:block/permafrost_bricks_bottom"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "upgrade_aquatic:block/finger_coralstone_top-ctm"
+        ],
+		"extra": {
+			"light": 0
+		}
+    }
+}
