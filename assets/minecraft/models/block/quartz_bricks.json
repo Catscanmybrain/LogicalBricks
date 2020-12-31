@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "minecraft:block/quartz_bricks",
+    "north": "minecraft:block/quartz_bricks",
+    "south": "minecraft:block/quartz_bricks",
+    "east": "minecraft:block/quartz_bricks_alt",
+    "west": "minecraft:block/quartz_bricks_alt",
+    "up": "minecraft:block/quartz_bricks_top",
+    "down": "minecraft:block/quartz_bricks_bottom"
+  }
+}

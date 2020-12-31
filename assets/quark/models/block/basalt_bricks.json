@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "quark:block/basalt_bricks",
+    "north": "quark:block/basalt_bricks",
+    "south": "quark:block/basalt_bricks",
+    "east": "quark:block/basalt_bricks_alt",
+    "west": "quark:block/basalt_bricks_alt",
+    "up": "quark:block/basalt_bricks_top",
+    "down": "quark:block/basalt_bricks_bottom"
+  }
+}

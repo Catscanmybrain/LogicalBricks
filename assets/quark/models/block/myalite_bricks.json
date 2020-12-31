@@ -1,0 +1,12 @@
+{
+  "parent": "quark:block/cube_tinted",
+  "textures": {
+        "particle": "quark:block/myalite_bricks",
+		"north": "quark:block/myalite_bricks",
+		"south": "quark:block/myalite_bricks",
+		"east": "quark:block/myalite_bricks_alt",
+		"west": "quark:block/myalite_bricks_alt",
+		"up": "quark:block/myalite_bricks_top",
+		"down": "quark:block/myalite_bricks_bottom"
+    }
+}
