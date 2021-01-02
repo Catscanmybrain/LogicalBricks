@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "quark:block/soul_sandstone_bricks",
+    "north": "quark:block/soul_sandstone_bricks",
+    "south": "quark:block/soul_sandstone_bricks",
+    "east": "quark:block/soul_sandstone_bricks_alt",
+    "west": "quark:block/soul_sandstone_bricks_alt",
+    "up": "quark:block/soul_sandstone_bricks_top",
+    "down": "quark:block/soul_sandstone_bricks_bottom"
+  }
+}

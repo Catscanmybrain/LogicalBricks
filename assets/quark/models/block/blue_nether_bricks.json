@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "quark:block/blue_nether_bricks",
+    "north": "quark:block/blue_nether_bricks",
+    "south": "quark:block/blue_nether_bricks",
+    "east": "quark:block/blue_nether_bricks_alt",
+    "west": "quark:block/blue_nether_bricks_alt",
+    "up": "quark:block/blue_nether_bricks_top",
+    "down": "quark:block/blue_nether_bricks_top"
+  }
+}

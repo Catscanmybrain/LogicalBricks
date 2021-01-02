@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "eidolon:block/smooth_stone_bricks",
+    "north": "eidolon:block/smooth_stone_bricks",
+    "south": "eidolon:block/smooth_stone_bricks",
+    "east": "eidolon:block/smooth_stone_bricks_alt",
+    "west": "eidolon:block/smooth_stone_bricks_alt",
+    "up": "eidolon:block/smooth_stone_bricks_top",
+    "down": "eidolon:block/smooth_stone_bricks_bottom"
+  }
+}

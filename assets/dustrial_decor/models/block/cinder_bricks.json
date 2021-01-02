@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "dustrial_decor:block/cinder_bricks",
+    "north": "dustrial_decor:block/cinder_bricks",
+    "south": "dustrial_decor:block/cinder_bricks",
+    "east": "dustrial_decor:block/cinder_bricks_alt",
+    "west": "dustrial_decor:block/cinder_bricks_alt",
+    "up": "dustrial_decor:block/cinder_bricks_top",
+    "down": "dustrial_decor:block/cinder_bricks_bottom"
+  }
+}
