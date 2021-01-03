@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "buzzier_bees:block/honeycomb_bricks",
+    "north": "buzzier_bees:block/honeycomb_bricks",
+    "south": "buzzier_bees:block/honeycomb_bricks",
+    "east": "buzzier_bees:block/honeycomb_bricks_alt",
+    "west": "buzzier_bees:block/honeycomb_bricks_alt",
+    "up": "buzzier_bees:block/honeycomb_bricks_top",
+    "down": "buzzier_bees:block/honeycomb_bricks_bottom"
+  }
+}

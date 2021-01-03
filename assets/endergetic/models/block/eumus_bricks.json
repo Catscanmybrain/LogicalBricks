@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "endergetic:block/eumus_bricks",
+    "north": "endergetic:block/eumus_bricks",
+    "south": "endergetic:block/eumus_bricks",
+    "east": "endergetic:block/eumus_bricks",
+    "west": "endergetic:block/eumus_bricks",
+    "up": "endergetic:block/eumus_bricks_top",
+    "down": "endergetic:block/eumus_bricks_top"
+  }
+}

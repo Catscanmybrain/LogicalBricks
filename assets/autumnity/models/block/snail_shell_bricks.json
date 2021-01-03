@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "autumnity:block/snail_shell_bricks",
+    "north": "autumnity:block/snail_shell_bricks",
+    "south": "autumnity:block/snail_shell_bricks",
+    "east": "autumnity:block/snail_shell_bricks",
+    "west": "autumnity:block/snail_shell_bricks",
+    "up": "autumnity:block/snail_shell_bricks_top",
+    "down": "autumnity:block/snail_shell_bricks_bottom"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "autumnity:block/snail_shell_bricks_top-ctm"
+        ],
+		"extra": {
+			"light": 0
+		}
+    }
+}
