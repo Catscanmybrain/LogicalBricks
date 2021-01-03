@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "create:block/palettes/scoria/bricks",
+    "north": "create:block/palettes/scoria/bricks",
+    "south": "create:block/palettes/scoria/bricks",
+    "east": "create:block/palettes/scoria/bricks_alt",
+    "west": "create:block/palettes/scoria/bricks_alt",
+    "up": "create:block/palettes/scoria/bricks_top",
+    "down": "create:block/palettes/scoria/bricks_bottom"
+  }
+}

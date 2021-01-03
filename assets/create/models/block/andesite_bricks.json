@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "create:block/palettes/andesite/bricks",
+    "north": "create:block/palettes/andesite/bricks",
+    "south": "create:block/palettes/andesite/bricks",
+    "east": "create:block/palettes/andesite/bricks_alt",
+    "west": "create:block/palettes/andesite/bricks_alt",
+    "up": "create:block/palettes/andesite/bricks_top",
+    "down": "create:block/palettes/andesite/bricks_bottom"
+  }
+}

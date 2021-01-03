@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "create:block/palettes/gabbro/bricks",
+    "north": "create:block/palettes/gabbro/bricks",
+    "south": "create:block/palettes/gabbro/bricks",
+    "east": "create:block/palettes/gabbro/bricks_alt",
+    "west": "create:block/palettes/gabbro/bricks_alt",
+    "up": "create:block/palettes/gabbro/bricks_top",
+    "down": "create:block/palettes/gabbro/bricks_bottom"
+  }
+}

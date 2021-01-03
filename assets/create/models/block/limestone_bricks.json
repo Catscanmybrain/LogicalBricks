@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "create:block/palettes/limestone/bricks",
+    "north": "create:block/palettes/limestone/bricks",
+    "south": "create:block/palettes/limestone/bricks",
+    "east": "create:block/palettes/limestone/bricks_alt",
+    "west": "create:block/palettes/limestone/bricks_alt",
+    "up": "create:block/palettes/limestone/bricks_top",
+    "down": "create:block/palettes/limestone/bricks_bottom"
+  }
+}

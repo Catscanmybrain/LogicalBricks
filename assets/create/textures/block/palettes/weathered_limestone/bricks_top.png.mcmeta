@@ -1,0 +1,13 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "create:block/palettes/weathered_limestone/bricks_top-ctm"
+        ],
+		"extra": {
+			"light": 0
+		}
+    }
+}
