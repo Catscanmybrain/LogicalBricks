@@ -1,0 +1,13 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "architects_palette:block/cracked_emerald_ore_bricks_top-ctm"
+        ],
+		"extra": {
+			"light": 0
+		}
+    }
+}

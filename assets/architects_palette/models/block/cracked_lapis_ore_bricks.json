@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "architects_palette:block/cracked_lapis_ore_bricks",
+    "north": "architects_palette:block/cracked_lapis_ore_bricks",
+    "south": "architects_palette:block/cracked_lapis_ore_bricks",
+    "east": "architects_palette:block/cracked_lapis_ore_bricks_alt",
+    "west": "architects_palette:block/cracked_lapis_ore_bricks_alt",
+    "up": "architects_palette:block/cracked_lapis_ore_bricks_top",
+    "down": "architects_palette:block/cracked_lapis_ore_bricks_bottom"
+  }
+}

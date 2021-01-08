@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "addendum:block/purpur_bricks",
+    "north": "addendum:block/purpur_bricks",
+    "south": "addendum:block/purpur_bricks",
+    "east": "addendum:block/purpur_bricks_alt",
+    "west": "addendum:block/purpur_bricks_alt",
+    "up": "addendum:block/purpur_bricks_top",
+    "down": "addendum:block/purpur_bricks_bottom"
+  }
+}

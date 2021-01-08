@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "addendum:block/midori_bricks",
+    "north": "addendum:block/midori_bricks",
+    "south": "addendum:block/midori_bricks",
+    "east": "addendum:block/midori_bricks_alt",
+    "west": "addendum:block/midori_bricks_alt",
+    "up": "addendum:block/midori_bricks_top",
+    "down": "addendum:block/midori_bricks_bottom"
+  }
+}
