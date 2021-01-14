@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "addendum:block/himmel_bricks",
+    "north": "addendum:block/himmel_bricks",
+    "south": "addendum:block/himmel_bricks",
+    "east": "addendum:block/himmel_bricks_alt",
+    "west": "addendum:block/himmel_bricks_alt",
+    "up": "addendum:block/himmel_bricks_top",
+    "down": "addendum:block/himmel_bricks_bottom"
+  }
+}

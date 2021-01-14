@@ -1,0 +1,13 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "outer_end:block/cracked_violite_bricks_top-ctm"
+        ],
+		"extra": {
+			"light": 0
+		}
+    }
+}
