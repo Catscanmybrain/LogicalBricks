@@ -7,7 +7,13 @@
             "minecraft:block/polished_blackstone_bricks_bottom-ctm"
         ],
 		"extra": {
-			"light": 0
+			"light": 0,
+			"connect_to": [
+			 { "block": "minecraft:polished_blackstone_bricks" },
+			 { "block": "minecraft:cracked_polished_blackstone_bricks" },
+			 { "block": "architects_palette:weeping_blackstone_bricks" },
+			 { "block": "architects_palette:twisting_blackstone_bricks" }
+			]
 		}
     }
 }

@@ -7,7 +7,11 @@
             "architects_palette:block/cracked_olivestone_bricks_bottom-ctm"
         ],
 		"extra": {
-			"light": 0
+			"light": 0,
+			"connect_to": [
+			 { "block": "architects_palette:olivestone_bricks" },
+			 { "block": "architects_palette:cracked_olivestone_bricks" }
+			]
 		}
     }
 }

@@ -7,7 +7,12 @@
             "outer_end:block/violite_bricks_top-ctm"
         ],
 		"extra": {
-			"light": 0
+			"light": 0,
+			"connect_to": [
+			 { "block": "outer_end:violite_bricks" },
+			 { "block": "outer_end:cracked_violite_bricks" },
+			 { "block": "outer_end:mossy_violite_bricks" }
+			]
 		}
     }
 }

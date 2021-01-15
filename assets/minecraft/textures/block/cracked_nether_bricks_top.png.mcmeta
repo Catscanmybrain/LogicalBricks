@@ -7,7 +7,11 @@
             "minecraft:block/cracked_nether_bricks_top-ctm"
         ],
 		"extra": {
-			"light": 0
+			"light": 0,
+			"connect_to": [
+			 { "block": "nether_bricks" },
+			 { "block": "cracked_nether_bricks" }
+			]
 		}
     }
 }

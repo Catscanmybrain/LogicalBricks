@@ -7,7 +7,12 @@
             "minecraft:block/stone_bricks_top-ctm"
         ],
 		"extra": {
-			"light": 0
+			"light": 0,
+			"connect_to": [
+			 { "block": "cracked_stone_bricks" },
+			 { "block": "mossy_stone_bricks" },
+			 { "block": "stone_bricks" }
+			]
 		}
     }
 }
