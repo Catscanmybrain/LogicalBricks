@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "quark:block/weeping_blackstone_bricks",
+    "north": "quark:block/weeping_blackstone_bricks",
+    "south": "quark:block/weeping_blackstone_bricks",
+    "east": "quark:block/weeping_blackstone_bricks_alt",
+    "west": "quark:block/weeping_blackstone_bricks_alt",
+    "up": "quark:block/weeping_blackstone_bricks_top",
+    "down": "quark:block/weeping_blackstone_bricks_bottom"
+  }
+}

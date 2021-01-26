@@ -4,7 +4,7 @@
         "type":"CTM",
         "layer":"SOLID",
         "textures":[
-            "architects_palette:block/twisting_blackstone_bricks_bottom-ctm"
+            "quark:block/twisted_blackstone_bricks_top-ctm"
         ],
 		"extra": {
 			"light": 0,

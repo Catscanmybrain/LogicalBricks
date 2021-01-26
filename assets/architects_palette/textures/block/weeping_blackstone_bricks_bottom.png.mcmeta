@@ -12,7 +12,9 @@
 			 { "block": "minecraft:polished_blackstone_bricks" },
 			 { "block": "minecraft:cracked_polished_blackstone_bricks" },
 			 { "block": "architects_palette:weeping_blackstone_bricks" },
-			 { "block": "architects_palette:twisting_blackstone_bricks" }
+			 { "block": "architects_palette:twisting_blackstone_bricks" },
+			 { "block": "quark:twisted_blackstone_bricks" },
+			 { "block": "quark:weeping_blackstone_bricks" }
 			]
 		}
     }

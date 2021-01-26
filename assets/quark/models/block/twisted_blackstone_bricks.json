@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "quark:block/twisted_blackstone_bricks",
+    "north": "quark:block/twisted_blackstone_bricks",
+    "south": "quark:block/twisted_blackstone_bricks",
+    "east": "quark:block/twisted_blackstone_bricks_alt",
+    "west": "quark:block/twisted_blackstone_bricks_alt",
+    "up": "quark:block/twisted_blackstone_bricks_top",
+    "down": "quark:block/twisted_blackstone_bricks_bottom"
+  }
+}

@@ -9,9 +9,12 @@
 		"extra": {
 			"light": 0,
 			"connect_to": [
-			 { "block": "cracked_stone_bricks" },
-			 { "block": "mossy_stone_bricks" },
-			 { "block": "stone_bricks" }
+			 { "block": "minecraft:cracked_stone_bricks" },
+			 { "block": "minecraft:mossy_stone_bricks" },
+			 { "block": "minecraft:stone_bricks" },
+			 { "block": "minecraft:infested_cracked_stone_bricks" },
+			 { "block": "minecraft:infested_mossy_stone_bricks" },
+			 { "block": "minecraft:infested_stone_bricks" }
 			]
 		}
     }

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "outer_end:block/chiseled_violite_bricks",
+    "north": "outer_end:block/chiseled_violite_bricks",
+    "south": "outer_end:block/chiseled_violite_bricks",
+    "east": "outer_end:block/chiseled_violite_bricks",
+    "west": "outer_end:block/chiseled_violite_bricks",
+    "up": "outer_end:block/violite_bricks_top",
+    "down": "outer_end:block/violite_bricks_bottom"
+  }
+}

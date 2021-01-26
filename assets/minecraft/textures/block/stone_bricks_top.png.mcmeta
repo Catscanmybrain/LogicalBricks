@@ -11,7 +11,10 @@
 			"connect_to": [
 			 { "block": "cracked_stone_bricks" },
 			 { "block": "mossy_stone_bricks" },
-			 { "block": "stone_bricks" }
+			 { "block": "stone_bricks" },
+			 { "block": "minecraft:infested_cracked_stone_bricks" },
+			 { "block": "minecraft:infested_mossy_stone_bricks" },
+			 { "block": "minecraft:infested_stone_bricks" }
 			]
 		}
     }
