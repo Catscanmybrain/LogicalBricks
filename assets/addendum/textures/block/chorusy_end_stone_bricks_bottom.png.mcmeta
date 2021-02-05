@@ -4,7 +4,7 @@
         "type":"CTM",
         "layer":"SOLID",
         "textures":[
-            "addendum:chorusy_end_stone_bricks_bottom-ctm"
+            "addendum:block/chorusy_end_stone_bricks_bottom-ctm"
         ],
 		"extra": {
 			"light": 0,
