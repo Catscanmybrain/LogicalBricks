@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "addendum:block/chorusy_end_stone_bricks",
+    "north": "addendum:block/chorusy_end_stone_bricks",
+    "south": "addendum:block/chorusy_end_stone_bricks",
+    "east": "addendum:block/chorusy_end_stone_bricks_alt",
+    "west": "addendum:block/chorusy_end_stone_bricks_alt",
+    "up": "addendum:block/chorusy_end_stone_bricks_top",
+    "down": "addendum:block/chorusy_end_stone_bricks_bottom"
+  }
+}

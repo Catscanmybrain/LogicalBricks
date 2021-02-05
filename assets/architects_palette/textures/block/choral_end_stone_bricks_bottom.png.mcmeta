@@ -12,7 +12,8 @@
 			 { "block": "minecraft:end_stone_bricks" },
 			 { "block": "architects_palette:choral_end_stone_bricks" },
 			 { "block": "architects_palette:cracked_end_stone_bricks" },
-			 { "block": "endergetic:cracked_end_stone_bricks" }
+			 { "block": "endergetic:cracked_end_stone_bricks" },
+			 { "block": "addendum:chorusy_end_stone_bricks" }
 			]
 		}
     }
